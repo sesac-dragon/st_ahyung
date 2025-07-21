@@ -1,0 +1,5 @@
+streamlit
+plotly
+matplotlib
+seaborn # seaborn만 설치해도 됨
+pymysql
